@@ -1,2 +1,3 @@
 # Appfolhas
-App para controle de retiradas de folhas
+App para controle de retiradas de folhas. Ele é feito de maneira bem simples usando apenas duas bibliotecas.
+Foi vinculado a um banco de dados Mysql mas pode ser feito vinculado a uma planilha, txt...
