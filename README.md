@@ -1,3 +1,3 @@
 # Appfolhas
-App para controle de retiradas de folhas. Ele é feito de maneira bem simples usando apenas duas bibliotecas. Pode ser usado para o controle de entrada e saida de material.
+App para controle de retiradas de folhas. Ele é feito de maneira bem simples usando apenas duas bibliotecas. Pode ser usado para o controle de entrada e saida de materiais.
 Ele foi construido vinculado a um banco de dados Mysql mas pode ser feito vinculado a uma planilha, txt...
