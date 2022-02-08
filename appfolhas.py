@@ -1,9 +1,10 @@
+#Programa de controle de folhas por pessoa!
 import PySimpleGUI as sg
 import mysql.connector
 
 class AppFolhas:
     def Conectar(self):
-        self.con = mysql.connector.connect(host='localhost', database='your-database', user = 'your-user-mysql', password = 'your-senha-mysql')
+        self.con = mysql.connector.connect(host='localhost', database='your-data-base', user = 'your-user', password = 'your-password')
 
         if self.con.is_connected():
             print('Conectado!')
